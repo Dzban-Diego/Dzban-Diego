@@ -13,8 +13,12 @@ I wrote a lot of project for my self. As examle...
 ### [ZarazBędę](https://github.com/dzban-diego/zdurnieli)
 Simple app to track when buss will departure from my liked bus stops. This app work only for Szczecin. I wrote it in about 3 evenings. I use it every day i a lot of my friends too.
 
-### [CodeGame](https://github.com/dzban-diego/codeGame)
+### [CodeGame](https://github.com/dzban-diego/codenames_2.0)
 This is board game to play via zoom with friends! (I wosn't best at coning at the time)
+I wrote 2 versions. 
+
+### [flashcards](https://github.com/dzban-diego/fiszki)
+App to lern 3 languages at the sime time!
 
 ### ...There's lot more
 Go loock at my repositories and check out my other projects.
