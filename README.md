@@ -26,3 +26,4 @@ Go loock at my repositories and check out my other projects.
 ## Contacts
 - mail: michal@klimczewski.pl
 - tt: [twitter](twitter.com/DzbanDiego)
+- [buy me a coffee](https://tipo.live/p/dzban-diego)
