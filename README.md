@@ -9,7 +9,7 @@ Currently i working ad Scooter company, and i'm writing the mobile app in react-
 
 I wrote a lot of project for my self. As examle...
 
-## Som of my project
+## Some of my project
 ### [ZarazBędę](https://github.com/dzban-diego/zdurnieli)
 Simple app to track when buss will departure from my liked bus stops. This app work only for Szczecin. I wrote it in about 3 evenings. I use it every day i a lot of my friends too.
 
